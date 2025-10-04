@@ -1,1 +1,1 @@
-# ocr-projects
+# OpenClassrooms projects
